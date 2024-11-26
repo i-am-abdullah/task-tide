@@ -1,4 +1,3 @@
-Here's the updated version of your README for **TaskTide**, incorporating a unique and engaging tone:
 
 ---
 
@@ -124,5 +123,3 @@ Bringing it all together, **TaskTide** seamlessly integrates its backend and fro
 - Frontend tests: `cd frontend && npm test`
 
 ---
-
-Feel free to adjust the "clone" URL or any other details to match your specific setup. This version adds some exciting language around the name **TaskTide**, focusing on the dynamic flow of tasks, while ensuring the README remains clear and actionable.
